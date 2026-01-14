@@ -9,7 +9,7 @@ import { Artefact } from './types';
  * 4. 选择 "整个文档" 和 "逗号分隔值 (.csv)"。
  * 5. 复制生成的链接并替换下方的 REMOTE_TABLE_URL。
  */
-export const REMOTE_TABLE_URL = 'https://oxuiah4gj3.feishu.cn/sheets/XkjYsSRauht9zkt8hCPcaXIrn5b?from=from_copylink'; 
+export const REMOTE_TABLE_URL = 'https://oxuiah4gj3.feishu.cn/wiki/Vx02wMr5wi9cohkxht7cGS6unUf?from=from_copylink'; 
 
 export const ARTEFACTS_RAW: Artefact[] = [
   {
