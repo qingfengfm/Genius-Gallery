@@ -9,7 +9,7 @@ import { Artefact } from './types';
  * 4. 选择 "整个文档" 和 "逗号分隔值 (.csv)"。
  * 5. 复制生成的链接并替换下方的 REMOTE_TABLE_URL。
  */
-export const REMOTE_TABLE_URL = 'https://github.com/qingfengfm/Genius-Gallery/blob/main/Genius%20Gallery.csv'; 
+export const REMOTE_TABLE_URL = 'https://github.com/qingfengfm/Genius-Gallery/blob/d425e66716aa9d5a12341026a6318f853f2d73fd/Genius%20Gallery.csv'; 
 
 export const ARTEFACTS_RAW: Artefact[] = [
   {
