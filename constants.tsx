@@ -40,7 +40,6 @@ export const ARTEFACTS_RAW: Artefact[] = [
     dislikes: 12,
     comments: []
   },
-[
   {
     "id": "2个字，动物",
     "name": "2个字，动物",
