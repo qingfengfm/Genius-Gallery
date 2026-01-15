@@ -110,5 +110,4 @@ export const ARTEFACTS_RAW: Artefact[] = [
     "dislikes": 6,
     "comments": []
   }
-]
 ];
