@@ -9,7 +9,7 @@ import { Artefact } from './types';
  * 4. 选择 "整个文档" 和 "逗号分隔值 (.csv)"。
  * 5. 复制生成的链接并替换下方的 REMOTE_TABLE_URL。
  */
-export const REMOTE_TABLE_URL = 'https://www.deepsheet.net/U/url/vp868k6d'; 
+export const REMOTE_TABLE_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQFBDTyiiBNOrnyaC8Mr_lGDsY53TrKdma_iMO-Jabb-mSWCS0RsSY47s7gRZ4pUFGzkc3cPRqPnia3/pub?output=csv'; 
 
 export const ARTEFACTS_RAW: Artefact[] = [
   {
